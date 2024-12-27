@@ -4,7 +4,7 @@
 - 🔭 Atualmente estou trabalhando com Planejamento de TI, também envolvendo análise e tratamento de dados.
 - Tenho experiencia com Power BI, Excel e SQL **Em transição de carreira - Engenharia de Dados.**
 
-- 🌱 Atualmente estou aprendendo e aperfeiçoando **Machine Learning & Python**
+- 🌱 Atualmente estou aprendendo e aperfeiçoando **Python**
 
 - 📄 Aqui estão minhas habilidades e resumo profissional [https://www.linkedin.com/in/fmorais-6a0841252/](https://www.linkedin.com/in/fmorais-6a0841252/)
 
