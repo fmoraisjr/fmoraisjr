@@ -2,8 +2,6 @@
 
 - Engenheiro de dados em inicio de carreira (**Transição**), antes Governança e Planejamento de TI.
 - Tenho experiencia com Power BI, Excel, Governança e Orçamento de TI.
-- Atualmente estou aprendendo e aperfeiçoando **Python** e **SQL**
-
 
 <h3 align="left">Resumo profissional:</h3>
 <p align="left">
