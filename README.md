@@ -1,10 +1,10 @@
 <h1 align="center">Olá, Eu sou Fabio Morais</h1>
 <h3 align="center">Entusiasta do mundo de dados e apaixonado por tecnologia ! </h3>
 
-- 🔭 Atualmente estou trabalhando com Planejamento de TI, também envolvendo análise e tratamento de dados.
-- Tenho experiencia com Power BI, Excel e SQL **Em transição de carreira - Engenharia de Dados.**
+- 🔭 Engenheiro de dados em inicio de carreira (**Transição**), antes Governança e Planejamento de TI.
+- Tenho experiencia com Power BI, Excel
 
-- 🌱 Atualmente estou aprendendo e aperfeiçoando **Python**
+- 🌱 Atualmente estou aprendendo e aperfeiçoando **Python** e ** SQL*
 
 - 📄 Aqui estão minhas habilidades e resumo profissional [https://www.linkedin.com/in/fmorais-6a0841252/](https://www.linkedin.com/in/fmorais-6a0841252/)
 
