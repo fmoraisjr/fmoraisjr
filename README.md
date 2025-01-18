@@ -1,4 +1,3 @@
-<h1 align="center">Olá, Eu sou Fabio Morais</h1>
 <h3 align="center">Entusiasta do mundo de dados e apaixonado por tecnologia ! </h3>
 
 - Engenheiro de dados em inicio de carreira (**Transição**), antes Governança e Planejamento de TI.
