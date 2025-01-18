@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Fabio Morais</h1>
+<h1 align="center">Olá, Eu sou Fabio Morais</h1>
 <h3 align="center">Entusiasta do mundo de dados e apaixonado por tecnologia ! </h3>
 
 - 🔭 Atualmente estou trabalhando com Planejamento de TI, também envolvendo análise e tratamento de dados.
