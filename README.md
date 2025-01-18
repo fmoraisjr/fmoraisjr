@@ -3,7 +3,7 @@
 
 - Engenheiro de dados em inicio de carreira (**Transição**), antes Governança e Planejamento de TI.
 - Tenho experiencia com Power BI, Excel
-- Atualmente estou aprendendo e aperfeiçoando **Python** e ** SQL*
+- Atualmente estou aprendendo e aperfeiçoando **Python** e ** SQL**
 
 - 📄 Aqui estão minhas habilidades e resumo profissional [https://www.linkedin.com/in/fmorais-6a0841252/](https://www.linkedin.com/in/fmorais-6a0841252/)
 
